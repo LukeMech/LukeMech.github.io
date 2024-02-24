@@ -1,7 +1,7 @@
 var globalAnnouncment = 
 
 //HERE WRITE ANNOUNCMENT
-'<i class="fa-solid fa-bell"></i> Site under reconstruction'
+'<i class="fa-solid fa-bell"></i> New project landed  : <a href="https://lukemech.github.io/ai-radio/" target="_blank">AI Radio</a>'
 
 
 
