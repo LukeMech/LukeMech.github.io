@@ -226,7 +226,10 @@ nav .fa-regular {
   text-align: center;
 }
 .about .col img {
-  width: 100%;
+  max-width: 100%;
+}
+.about .col .sub {
+  min-height: 500px;
 }
 
 .about .row::after {
